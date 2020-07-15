@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 
 
-ip = '68.189.65.252'
+ip = '24.231.34.64'
 
 html = ("https://whatismyipaddress.com/ip/" + ip)
 
